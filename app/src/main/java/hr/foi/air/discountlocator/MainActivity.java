@@ -25,7 +25,7 @@ import hr.foi.air.discountlocator.recyclerview.ExpandableStoreItem;
 import hr.foi.air.discountlocator.recyclerview.StoreRecyclerAdapter;
 
 public class MainActivity extends AppCompatActivity implements DataLoadedListener {
-
+    //ovo je test
     @BindView(R.id.main_recycler)
     RecyclerView recyclerView;
 
